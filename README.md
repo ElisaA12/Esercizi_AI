@@ -1,5 +1,5 @@
 # Esercizi svolti per il corso di Intelligenza Artificiale
-*Elisa Acciari VR478828 A.A. 2021/2022 
+*Elisa Acciari A.A. 2021/2022 
 Università degli Studi di Verona.*
 
 
